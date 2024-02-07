@@ -1,1 +1,1 @@
-#  SSH = Secure Shell
+#  SSH : Secure Shell
